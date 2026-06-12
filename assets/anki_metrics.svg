@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195">
+        <style>
+            .panel { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
+            .title { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+            .metric-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+            .metric-value { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+            .streak-fire { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff7b72; }
+        </style>
+        
+        <rect width="448" height="193" x="1" y="1" class="panel"/>
+        
+        <text x="25" y="35" class="title">Anki Learning Metrics (Last 30 Days)</text>
+        
+        <line x1="25" y1="55" x2="425" y2="55" stroke="#30363d" stroke-width="1"/>
+        <line x1="225" y1="55" x2="225" y2="170" stroke="#30363d" stroke-width="1"/>
+        <line x1="25" y1="112" x2="425" y2="112" stroke="#30363d" stroke-width="1"/>
+        
+        <text x="40" y="80" class="metric-label">Total Reviews</text>
+        <text x="40" y="102" class="metric-value">2,559</text>
+        
+        <text x="240" y="80" class="metric-label">Time Invested</text>
+        <text x="240" y="102" class="metric-value">6.9 hrs</text>
+        
+        <text x="40" y="138" class="metric-label">Retention Rate</text>
+        <text x="40" y="160" class="metric-value">80.5%</text>
+        
+        <text x="240" y="138" class="metric-label">Average Pace</text>
+        <text x="240" y="160" class="metric-value">9.7s/card</text>
+    </svg>
