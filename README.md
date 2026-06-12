@@ -1,13 +1,14 @@
-# Hi there, I'm Fromis06 👋
+# Hi there, I'm Lê Thành Danh 
 
 ### 👨‍💻 About Me
-I am a Software Developer and Data Engineering enthusiast, passionate about building high-throughput backend systems, automation, and cloud architectures.
+I am a 3rd-year Software Engineering student @ UIT, a Data Engineering enthusiast, and a passionate gymgoer. I love optimizing systems—whether it's high-throughput backend code or physical strength performance.
 
 * 🚀 Currently focusing on: **Go, Cloud Services, and Streaming Architectures**
 * 💡 Experienced in: Building high-performance tools, Computer Vision automation, and database design.
-* 🎯 Goal: Optimizing system performance and mastering cloud infrastructures.
+* 🏋️‍♂️ Gym & Lifestyle: Dedicated to strength training and continuous self-improvement (both in the IDE and at the gym).
+* 🎯 Goal: Optimizing system performance, mastering cloud infrastructures, and hitting new PRs.
 
-📫 How to reach me: **contact.fromis06@gmail.com**
+📫 How to reach me: **danhle819@gmail.com**
 
 ---
 
