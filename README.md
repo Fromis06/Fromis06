@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&width=500&lines=Hi+there+i'm+Lê+Thành+Danh;Software+%26+Data+Engineer;Gym+Enthusiast+%26+Optimizer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&width=500&lines=Hi+there+i%27m+L%C3%AA+Th%C3%A0nh+Danh;Software+%26+Data+Engineer;Gym+Enthusiast+%26+Optimizer" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
