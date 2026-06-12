@@ -1,25 +1,20 @@
 # Hi there, I'm Fromis06 👋
 
-<table align="center">
-  <tr>
-    <td valign="top" width="60%">
-      <h3>👨‍💻 About Me</h3>
-      <p>I am a Software Developer and Data Engineering enthusiast, passionate about building high-throughput backend systems, automation, and cloud architectures.</p>
-      
-      <ul>
-        <li>🚀 Currently focusing on: <strong>Go, Cloud Services, and Streaming Architectures</strong></li>
-        <li>💡 Experienced in: Building high-performance tools, Computer Vision automation, and database design.</li>
-        <li>🎯 Goal: Optimizing system performance and mastering cloud infrastructures.</li>
-      </ul>
-      
-      <p>📫 How to reach me: <strong>contact.fromis06@gmail.com</strong></p>
-    </td>
-    <td valign="top" width="40%">
-      <h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+I am a Software Developer and Data Engineering enthusiast, passionate about building high-throughput backend systems, automation, and cloud architectures.
+
+* 🚀 Currently focusing on: **Go, Cloud Services, and Streaming Architectures**
+* 💡 Experienced in: Building high-performance tools, Computer Vision automation, and database design.
+* 🎯 Goal: Optimizing system performance and mastering cloud infrastructures.
+
+📫 How to reach me: **contact.fromis06@gmail.com**
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
+</p>
 
 ---
 
