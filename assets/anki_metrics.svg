@@ -1,29 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="175" viewBox="0 0 600 175">
         <style>
             .panel { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
             .title { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+            .section-label { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
             .metric-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
-            .metric-value { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
-            .streak-fire { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff7b72; }
+            .metric-value { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
         </style>
         
-        <rect width="448" height="193" x="1" y="1" class="panel"/>
+        <rect width="598" height="173" x="1" y="1" class="panel"/>
         
-        <text x="25" y="35" class="title">Anki Learning Metrics (Last 30 Days)</text>
+        <text x="25" y="32" class="title">Anki Learning Analytics</text>
+        <line x1="25" y1="48" x2="575" y2="48" stroke="#30363d" stroke-width="1"/>
         
-        <line x1="25" y1="55" x2="425" y2="55" stroke="#30363d" stroke-width="1"/>
-        <line x1="225" y1="55" x2="225" y2="170" stroke="#30363d" stroke-width="1"/>
-        <line x1="25" y1="112" x2="425" y2="112" stroke="#30363d" stroke-width="1"/>
+        <text x="25" y="58" class="section-label">30-DAY REVIEW INTENSITY</text>
+        <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-10: 0 reviews</title></rect>
+        <rect x="30" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-11: 0 reviews</title></rect>
+        <rect x="30" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-12: 0 reviews</title></rect>
+        <rect x="30" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-13: 0 reviews</title></rect>
+        <rect x="30" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-05-14: 355 reviews</title></rect>
+        <rect x="47" y="65" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-05-15: 107 reviews</title></rect>
+        <rect x="47" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-05-16: 295 reviews</title></rect>
+        <rect x="47" y="99" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-05-17: 197 reviews</title></rect>
+        <rect x="47" y="116" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-05-18: 280 reviews</title></rect>
+        <rect x="47" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-05-19: 274 reviews</title></rect>
+        <rect x="64" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-20: 0 reviews</title></rect>
+        <rect x="64" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-21: 0 reviews</title></rect>
+        <rect x="64" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-22: 0 reviews</title></rect>
+        <rect x="64" y="116" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-05-23: 8 reviews</title></rect>
+        <rect x="64" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-05-24: 34 reviews</title></rect>
+        <rect x="81" y="65" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-05-25: 85 reviews</title></rect>
+        <rect x="81" y="82" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-05-26: 56 reviews</title></rect>
+        <rect x="81" y="99" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-05-27: 7 reviews</title></rect>
+        <rect x="81" y="116" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-05-28: 4 reviews</title></rect>
+        <rect x="81" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-29: 0 reviews</title></rect>
+        <rect x="98" y="65" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-05-30: 4 reviews</title></rect>
+        <rect x="98" y="82" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-05-31: 5 reviews</title></rect>
+        <rect x="98" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-06-01: 0 reviews</title></rect>
+        <rect x="98" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-06-02: 0 reviews</title></rect>
+        <rect x="98" y="133" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-06-03: 6 reviews</title></rect>
+        <rect x="115" y="65" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-06-04: 6 reviews</title></rect>
+        <rect x="115" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-06-05: 363 reviews</title></rect>
+        <rect x="115" y="99" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-06-06: 336 reviews</title></rect>
+        <rect x="115" y="116" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-06-07: 88 reviews</title></rect>
+        <rect x="115" y="133" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-06-08: 2 reviews</title></rect>
+        <rect x="132" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-06-09: 0 reviews</title></rect>
+        <rect x="132" y="82" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-06-10: 18 reviews</title></rect>
+        <rect x="132" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-06-11: 0 reviews</title></rect>
+        <rect x="132" y="116" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-12: 29 reviews</title></rect>
+        <rect x="132" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-06-13: 0 reviews</title></rect>
         
-        <text x="40" y="80" class="metric-label">Total Reviews</text>
-        <text x="40" y="102" class="metric-value">2,559</text>
+        <line x1="175" y1="58" x2="175" y2="150" stroke="#30363d" stroke-width="0.8" stroke-dasharray="2,2"/>
         
-        <text x="240" y="80" class="metric-label">Time Invested</text>
-        <text x="240" y="102" class="metric-value">6.9 hrs</text>
+        <text x="200" y="72" class="metric-label">Total Reviews:</text>
+        <text x="320" y="72" class="metric-value">2,559 cards</text>
         
-        <text x="40" y="138" class="metric-label">Retention Rate</text>
-        <text x="40" y="160" class="metric-value">80.5%</text>
+        <text x="200" y="96" class="metric-label">Time Invested:</text>
+        <text x="320" y="96" class="metric-value">6.9 hrs</text>
         
-        <text x="240" y="138" class="metric-label">Average Pace</text>
-        <text x="240" y="160" class="metric-value">9.7s/card</text>
+        <text x="200" y="120" class="metric-label">Retention Rate:</text>
+        <text x="320" y="120" class="metric-value">80.5%</text>
+        
+        <text x="200" y="144" class="metric-label">Average Pace:</text>
+        <text x="320" y="144" class="metric-value">9.7s/card</text>
     </svg>
