@@ -23,7 +23,7 @@ I am a 3rd-year Software Engineering student @ UIT, a Data Engineering enthusias
 
 <table>
   <tr>
-    <td align="center" width="150"><strong>Languages</strong></td>
+    <td align="center" width="160"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -32,15 +32,23 @@ I am a 3rd-year Software Engineering student @ UIT, a Data Engineering enthusias
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Data & Streaming</strong></td>
+    <td align="center"><strong>Frameworks & APIs</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases & Streaming</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps & Cloud</strong></td>
+    <td align="center"><strong>DevOps & Infra</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
