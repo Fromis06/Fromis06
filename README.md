@@ -1,4 +1,6 @@
-# Hi there, I'm Lê Thành Danh 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&width=500&lines=3rd-year+Student+at+UIT;Software+%26+Data+Engineer;Gym+Enthusiast+%26+Optimizer" alt="Typing SVG" />
+</p>
 
 ### 👨‍💻 About Me
 I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktmdTLZHKMFyV5nz8), a Data Engineering enthusiast, and a passionate gymgoer. I love optimizing systems—whether it's high-throughput backend code or physical strength performance.
