@@ -62,4 +62,5 @@
         
         <text x="200" y="144" class="metric-label">Average Pace:</text>
         <text x="320" y="144" class="metric-value">9.7s/card</text>
-    </svg>
+
+        </svg>
