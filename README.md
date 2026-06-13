@@ -18,10 +18,10 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="410">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450"/>
     </td>
-    <td valign="top" width="460">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781317164" alt="Anki Metrics" width="450"/>
+    <td valign="top" width="450">
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781317537" alt="Anki Metrics" width="450"/>
     </td>
   </tr>
 </table>
