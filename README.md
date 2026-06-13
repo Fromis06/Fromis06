@@ -15,17 +15,18 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 
 ---
 
-### 📈 Metrics & Analytics
+### 📈 Coding & Language Learning Tracking
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781323618" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781324038" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781323618" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781324038" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -70,17 +71,17 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 
 ### 📂 Featured Projects
 
-* 📌 **CDC Architect System**
+* **CDC Architect System**
   * *Description:* Một công cụ Change Data Capture (CDC) hiệu năng cao được phát triển bằng Go. Hệ thống tối ưu hóa tốc độ xử lý dữ liệu luồng (streaming data) nhờ vào cơ chế Batching tự động và Overflow logic thông minh để kiểm soát hàng chục nghìn sự kiện trên giây (EPS) một cách ổn định.
   * *Tech stack:* Go, Apache Kafka, PostgreSQL.
   * 🔗 [View Code](https://github.com/Fromis06/Prismio)
 
-* 📌 **MaxGymPro Smart Gate Control**
+* **MaxGymPro Smart Gate Control**
   * *Description:* Giải pháp tự động hóa kiểm soát ra vào thời gian thực sử dụng các mô hình học máy và thị giác máy tính hàng đầu để nhận diện khuôn mặt thành viên chính xác tại cổng kiểm soát của phòng gym.
   * *Tech stack:* Python, RetinaFace, ArcFace, Docker.
   * 🔗 [View Code](https://github.com/Fromis06)
 
-* 📌 **Chrome Quick Furigana Search Extension**
+* **Chrome Quick Furigana Search Extension**
   * *Description:* Tiện ích mở rộng trên trình duyệt Chrome giúp đơn giản hóa việc học và tra cứu Kanji bằng cách hiển thị nhanh Furigana trực quan cho người dùng.
   * *Tech stack:* JavaScript, TypeScript, Chrome Extension Manifest V3.
   * 🔗 [View Code](https://github.com/Fromis06)
