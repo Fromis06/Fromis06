@@ -23,7 +23,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
            style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=<img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318482" alt="Anki Metrics" style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />" 
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=<img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318548" alt="Anki Metrics" style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />" 
            alt="Anki Metrics" 
            style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />
     </td>
