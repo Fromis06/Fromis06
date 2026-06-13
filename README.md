@@ -15,21 +15,21 @@ How to reach me: **danhle819@gmail.com**
 
 ---
 
-### 📈 Coding & Language Learning Tracking
+### Coding & Language Learning Tracking
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781349653" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781349706" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781349653" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781349706" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <table>
   <tr>
@@ -69,7 +69,7 @@ How to reach me: **danhle819@gmail.com**
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 * **CDC Architect System**
   * *Description:* Một công cụ Change Data Capture (CDC) hiệu năng cao được phát triển bằng Go. Hệ thống tối ưu hóa tốc độ xử lý dữ liệu luồng (streaming data) nhờ vào cơ chế Batching tự động và Overflow logic thông minh để kiểm soát hàng chục nghìn sự kiện trên giây (EPS) một cách ổn định.
@@ -88,7 +88,7 @@ How to reach me: **danhle819@gmail.com**
 
 ---
 
-### 📊 Top Languages
+### Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fromis06&layout=donut&theme=tokyonight" alt="Top Languages" />
 </p>
