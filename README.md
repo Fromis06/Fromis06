@@ -15,15 +15,13 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 ---
 
 ### 📈 Metrics & Analytics
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" 
-           alt="GitHub Stats" 
-           style="width: 100%; max-width: 495px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318706" alt="Anki Metrics" style="width: 100%; max-width: 495px;" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318963" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
