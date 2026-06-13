@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="450" height="165" viewBox="0 0 450 165">
         <style>
             .panel { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
-            .title { font: bold 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+            .title { font: bold 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
             .section-label { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
             .metric-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
             .metric-value { font: bold 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
