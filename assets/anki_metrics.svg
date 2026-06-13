@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195">
         <style>
             .panel { fill: #1a1b26; stroke: #383e5a; stroke-width: 1; rx: 4.5px; }
             .title { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
@@ -7,10 +7,10 @@
             .metric-value { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #acb0d0; }
         </style>
         
-        <rect width="493" height="193" x="1" y="1" class="panel"/>
+        <rect width="465" height="193" x="1" y="1" class="panel"/>
         
         <text x="25" y="35" class="title">Anki Learning Analytics</text>
-        <line x1="25" y1="50" x2="470" y2="50" stroke="#383e5a" stroke-width="1"/>
+        <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
         
         <text x="25" y="70" class="section-label">30-DAY REVIEW INTENSITY</text>
         
@@ -49,20 +49,20 @@
         <rect x="132" y="82" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-06-10: 18 reviews</title></rect>
         <rect x="132" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-06-11: 0 reviews</title></rect>
         <rect x="132" y="116" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-12: 29 reviews</title></rect>
-        <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-13: 38 reviews</title></rect>
+        <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-13: 41 reviews</title></rect>
         </g>
         
-        <line x1="200" y1="65" x2="200" y2="175" stroke="#383e5a" stroke-width="1"/>
+        <line x1="195" y1="65" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
         
-        <text x="225" y="85" class="metric-label">Total Reviews:</text>
-        <text x="350" y="85" class="metric-value">2,597 cards</text>
+        <text x="215" y="85" class="metric-label">Total Reviews:</text>
+        <text x="330" y="85" class="metric-value">2,600 cards</text>
         
-        <text x="225" y="115" class="metric-label">Time Invested:</text>
-        <text x="350" y="115" class="metric-value">6.9 hrs</text>
+        <text x="215" y="115" class="metric-label">Time Invested:</text>
+        <text x="330" y="115" class="metric-value">6.9 hrs</text>
         
-        <text x="225" y="145" class="metric-label">Retention Rate:</text>
-        <text x="350" y="145" class="metric-value">80.7%</text>
+        <text x="215" y="145" class="metric-label">Retention Rate:</text>
+        <text x="330" y="145" class="metric-value">80.7%</text>
         
-        <text x="225" y="175" class="metric-label">Average Pace:</text>
-        <text x="350" y="175" class="metric-value">9.6s/card</text>
+        <text x="215" y="175" class="metric-label">Average Pace:</text>
+        <text x="330" y="175" class="metric-value">9.6s/card</text>
     </svg>
