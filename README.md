@@ -17,11 +17,15 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 ### 📈 Metrics & Analytics
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="450">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450"/>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" 
+           alt="GitHub Stats" 
+           style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />
     </td>
-    <td valign="top" width="450">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318181" alt="Anki Metrics" width="450"/>
+    <td valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=<img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318482" alt="Anki Metrics" style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />" 
+           alt="Anki Metrics" 
+           style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />
     </td>
   </tr>
 </table>
