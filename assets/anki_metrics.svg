@@ -1,15 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="180" viewBox="0 0 450 180">
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="165" viewBox="0 0 450 165">
         <style>
-            /* Sync 100% màu nền và viền Tokyonight gốc */
             .panel { fill: #1a1b26; stroke: #383e5a; stroke-width: 1; rx: 4.5px; }
-            /* Đổi tiêu đề sang màu xanh Teal đặc trưng của GitHub Stats */
             .title { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
             .section-label { font: 600 9px 'Segoe UI', Ubuntu, Sans-Serif; fill: #787c99; letter-spacing: 0.5px; }
-            /* Màu nhãn xám mịn và giá trị trắng xanh mát mắt */
             .metric-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7982a9; }
             .metric-value { font: bold 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #acb0d0; }
         </style>
         
+        # SỬA TẠI ĐÂY: Khóa chặt chiều cao khung nền đúng 163px để khớp viền 165px tổng
         <rect width="448" height="163" x="1" y="1" class="panel"/>
         
         <text x="22" y="30" class="title">Anki Learning Analytics</text>
@@ -17,7 +15,8 @@
         
         <text x="22" y="56" class="section-label">30-DAY REVIEW INTENSITY</text>
         
-        <g transform="translate(1, 4) scale(1.15)">
+        # SỬA TẠI ĐÂY: Hạ nhẹ tỉ lệ scale xuống 1.08 và dịch trục Y (độ cao) lên xíu (translate 2, 2)
+        <g transform="translate(2, 2) scale(1.08)">
             <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-10: 0 reviews</title></rect>
         <rect x="30" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-11: 0 reviews</title></rect>
         <rect x="30" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-12: 0 reviews</title></rect>
