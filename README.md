@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&width=600&lines=Hi+there+i%27m+L%C3%AA+Th%C3%A0nh+Danh;Software+%26+Data+Engineer;Gym+Enthusiast+%26+Optimizer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&width=500&lines=Hi+there+i%27m+L%C3%AA+Th%C3%A0nh+Danh;Software+%26+Data+Engineer;Gym+Enthusiast+%26+Optimizer" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
@@ -21,7 +21,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
       <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781319392" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781319422" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
