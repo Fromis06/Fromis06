@@ -2,8 +2,7 @@
         <style>
             .panel { fill: #1a1b26; stroke: #383e5a; stroke-width: 1; rx: 4.5px; }
             .title { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
-            .section-label { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #787c99; letter-spacing: 0.5px; }
-            .metric-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7982a9; }
+            .metric-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
             .metric-value { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
         </style>
         
@@ -12,7 +11,6 @@
         <text x="25" y="35" class="title">Anki Learning Analytics</text>
         <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
         
-        <text x="25" y="70" class="section-label">30-DAY REVIEW INTENSITY</text>
         
         <g transform="translate(5, 5) scale(1.15)">
             <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-10: 0 reviews</title></rect>
