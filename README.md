@@ -14,10 +14,17 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
-</p>
+### 📈 Metrics & Analytics
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="410">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
+    </td>
+    <td valign="top" width="460">
+      <img src="https://github.com/Fromis06/Fromis06/blob/master/assets/anki_metrics.svg?raw=true" alt="Anki Metrics" width="450"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
