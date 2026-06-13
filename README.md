@@ -7,7 +7,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 
 * **Currently focusing on:** Go, Python, Cloud Services, and Streaming Architectures.
 * **Knowledgeable in:** Building CDC tools, automation systems, full-stack development, and database design.
-* **Languages:** Native Vietnamese, professional English, and currently learning Japanese.
+* **Languages:** Native Vietnamese 🇻🇳, professional English, and currently learning Japanese.
 * **Lifestyle:** As a gym enthusiast and programmer, I believe both the gym and coding follow the same principle: real strength comes from showing up every day, pushing past your limits, and staying consistent.
 * **Goal:** To design scalable and efficient data systems, deepen my expertise in cloud infrastructure, and continuously improve both professionally and personally.
 
@@ -19,10 +19,10 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781324038" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781348232" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781324038" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781348232" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
