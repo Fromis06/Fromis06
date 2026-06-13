@@ -20,12 +20,10 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" 
            alt="GitHub Stats" 
-           style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />
+           style="width: 100%; max-width: 495px;" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=<img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318548" alt="Anki Metrics" style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />" 
-           alt="Anki Metrics" 
-           style="width: 100%; max-width: 400px; height: 165px; object-fit: fill;" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781318706" alt="Anki Metrics" style="width: 100%; max-width: 495px;" />
     </td>
   </tr>
 </table>
