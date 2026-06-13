@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00ADD8&width=500&lines=Hi+there+i%27m+L%C3%AA+Th%C3%A0nh+Danh;Software+%26+Data+Engineer;Gym+Enthusiast+%26+Optimizer" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
+### About Me
 I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktmdTLZHKMFyV5nz8), a Data Engineering enthusiast, and a passionate gymgoer. I love optimizing systems—whether it's high-throughput backend code or physical strength performance.
 
 * **Currently focusing on:** Go, Python, Cloud Services, and Streaming Architectures.
@@ -11,7 +11,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 * **Lifestyle:** As a gym enthusiast and programmer, I believe both the gym and coding follow the same principle: real strength comes from showing up every day, pushing past your limits, and staying consistent.
 * **Goal:** To design scalable and efficient data systems, deepen my expertise in cloud infrastructure, and continuously improve both professionally and personally.
 
-📫 How to reach me: **danhle819@gmail.com**
+How to reach me: **danhle819@gmail.com**
 
 ---
 
@@ -19,10 +19,10 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781349251" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781349653" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781349251" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781349653" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
