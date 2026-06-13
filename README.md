@@ -10,7 +10,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 * 🏋️‍♂️ Gym & Lifestyle: Dedicated to strength training and continuous self-improvement (both in the IDE and at the gym).
 * 🎯 Goal: Optimizing system performance, mastering cloud infrastructures, and hitting new PRs.
 
-📫 How to reach me: **danhle819@gmail.com**
+📫 How to reach me: **danhle819@gmail.com1**
 
 ---
 
@@ -21,7 +21,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
       <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781319534" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781319600" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
