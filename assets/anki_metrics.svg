@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="175" viewBox="0 0 600 175">
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="165" viewBox="0 0 450 165">
         <style>
             .panel { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
-            .title { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
-            .section-label { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+            .title { font: bold 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+            .section-label { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
             .metric-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
-            .metric-value { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+            .metric-value { font: bold 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
         </style>
         
-        <rect width="598" height="173" x="1" y="1" class="panel"/>
+        <rect width="448" height="163" x="1" y="1" class="panel"/>
         
-        <text x="25" y="32" class="title">Anki Learning Analytics</text>
-        <line x1="25" y1="48" x2="575" y2="48" stroke="#30363d" stroke-width="1"/>
+        <text x="20" y="28" class="title">Anki Learning Analytics</text>
+        <line x1="20" y1="40" x2="430" y2="40" stroke="#30363d" stroke-width="1"/>
         
-        <text x="25" y="58" class="section-label">30-DAY REVIEW INTENSITY</text>
+        <text x="20" y="55" class="section-label">30-DAY REVIEW INTENSITY</text>
         <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-10: 0 reviews</title></rect>
         <rect x="30" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-11: 0 reviews</title></rect>
         <rect x="30" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-12: 0 reviews</title></rect>
@@ -49,18 +49,18 @@
         <rect x="132" y="116" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-12: 29 reviews</title></rect>
         <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-13: 20 reviews</title></rect>
         
-        <line x1="175" y1="58" x2="175" y2="150" stroke="#30363d" stroke-width="0.8" stroke-dasharray="2,2"/>
+        <line x1="165" y1="52" x2="165" y2="145" stroke="#30363d" stroke-width="0.8" stroke-dasharray="2,2"/>
         
-        <text x="200" y="72" class="metric-label">Total Reviews:</text>
-        <text x="320" y="72" class="metric-value">2,579 cards</text>
+        <text x="185" y="68" class="metric-label">Total Reviews:</text>
+        <text x="295" y="68" class="metric-value">2,579 cards</text>
         
-        <text x="200" y="96" class="metric-label">Time Invested:</text>
-        <text x="320" y="96" class="metric-value">6.9 hrs</text>
+        <text x="185" y="92" class="metric-label">Time Invested:</text>
+        <text x="295" y="92" class="metric-value">6.9 hrs</text>
         
-        <text x="200" y="120" class="metric-label">Retention Rate:</text>
-        <text x="320" y="120" class="metric-value">80.6%</text>
+        <text x="185" y="116" class="metric-label">Retention Rate:</text>
+        <text x="295" y="116" class="metric-value">80.6%</text>
         
-        <text x="200" y="144" class="metric-label">Average Pace:</text>
-        <text x="320" y="144" class="metric-value">9.6s/card</text>
+        <text x="185" y="140" class="metric-label">Average Pace:</text>
+        <text x="295" y="140" class="metric-value">9.6s/card</text>
 
         </svg>
