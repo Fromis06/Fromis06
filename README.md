@@ -5,10 +5,11 @@
 ### 👨‍💻 About Me
 I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktmdTLZHKMFyV5nz8), a Data Engineering enthusiast, and a passionate gymgoer. I love optimizing systems—whether it's high-throughput backend code or physical strength performance.
 
-* **Currently focusing on:** Go, Cloud Services, and Streaming Architectures
-* **Experienced in:** Building high-performance tools, Computer Vision automation, and database design.
-* **Gym & Lifestyle:** Dedicated to strength training and continuous self-improvement (both in the IDE and at the gym).
-* **Goal:** Optimizing system performance, mastering cloud infrastructures, and hitting new PRs.
+* **Currently focusing on:** Go, Python, Cloud Services, and Streaming Architectures.
+* **Knowledgeable in:** Building CDC tools, automation systems, full-stack development, and database design.
+* **Languages:** Native Vietnamese, professional English, and currently learning Japanese.
+* **Lifestyle:** A gym enthusiast and programmer, I believe both the gym and coding follow the same principle: real strength comes from showing up every day, pushing past your limits, and staying consistent.
+* **Goal:** To design scalable and efficient data systems, deepen my expertise in cloud infrastructure, and continuously improve both professionally and personally.
 
 📫 How to reach me: **danhle819@gmail.com**
 
@@ -21,7 +22,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
       <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781321820" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781323153" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
