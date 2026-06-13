@@ -1,19 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="185" viewBox="0 0 450 185">
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="165" viewBox="0 0 450 165">
         <style>
-            .panel { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
-            .title { font: bold 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
-            .section-label { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
-            .metric-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
-            .metric-value { font: bold 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+            /* Sync 100% màu nền và viền Tokyonight gốc */
+            .panel { fill: #1a1b26; stroke: #383e5a; stroke-width: 1; rx: 4.5px; }
+            /* Đổi tiêu đề sang màu xanh Teal đặc trưng của GitHub Stats */
+            .title { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+            .section-label { font: 600 9px 'Segoe UI', Ubuntu, Sans-Serif; fill: #787c99; letter-spacing: 0.5px; }
+            /* Màu nhãn xám mịn và giá trị trắng xanh mát mắt */
+            .metric-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7982a9; }
+            .metric-value { font: bold 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #acb0d0; }
         </style>
         
         <rect width="448" height="163" x="1" y="1" class="panel"/>
         
-        <text x="20" y="28" class="title">Anki Learning Analytics</text>
-        <line x1="20" y1="40" x2="430" y2="40" stroke="#30363d" stroke-width="1"/>
+        <text x="22" y="30" class="title">Anki Learning Analytics</text>
+        <line x1="22" y1="42" x2="428" y2="42" stroke="#383e5a" stroke-width="1"/>
         
-        <text x="20" y="55" class="section-label">30-DAY REVIEW INTENSITY</text>
-        <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-10: 0 reviews</title></rect>
+        <text x="22" y="56" class="section-label">30-DAY REVIEW INTENSITY</text>
+        
+        <g transform="translate(1, 4) scale(1.15)">
+            <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-10: 0 reviews</title></rect>
         <rect x="30" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-11: 0 reviews</title></rect>
         <rect x="30" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-12: 0 reviews</title></rect>
         <rect x="30" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-13: 0 reviews</title></rect>
@@ -48,19 +53,20 @@
         <rect x="132" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-06-11: 0 reviews</title></rect>
         <rect x="132" y="116" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-12: 29 reviews</title></rect>
         <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-13: 32 reviews</title></rect>
+        </g>
         
-        <line x1="165" y1="52" x2="165" y2="145" stroke="#30363d" stroke-width="0.8" stroke-dasharray="2,2"/>
+        <line x1="180" y1="52" x2="180" y2="145" stroke="#383e5a" stroke-width="1"/>
         
-        <text x="185" y="68" class="metric-label">Total Reviews:</text>
-        <text x="295" y="68" class="metric-value">2,591 cards</text>
+        <text x="200" y="70" class="metric-label">Total Reviews:</text>
+        <text x="315" y="70" class="metric-value">2,591 cards</text>
         
-        <text x="185" y="92" class="metric-label">Time Invested:</text>
-        <text x="295" y="92" class="metric-value">6.9 hrs</text>
+        <text x="200" y="94" class="metric-label">Time Invested:</text>
+        <text x="315" y="94" class="metric-value">6.9 hrs</text>
         
-        <text x="185" y="116" class="metric-label">Retention Rate:</text>
-        <text x="295" y="116" class="metric-value">80.6%</text>
+        <text x="200" y="118" class="metric-label">Retention Rate:</text>
+        <text x="315" y="118" class="metric-value">80.6%</text>
         
-        <text x="185" y="140" class="metric-label">Average Pace:</text>
-        <text x="295" y="140" class="metric-value">9.6s/card</text>
+        <text x="200" y="142" class="metric-label">Average Pace:</text>
+        <text x="315" y="142" class="metric-value">9.6s/card</text>
 
         </svg>
