@@ -19,10 +19,10 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781348791" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Fromis06&show_icons=true&theme=tokyonight&count_private=true&v=1781349191" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781348791" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1781349191" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
@@ -93,4 +93,6 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fromis06&layout=donut&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center"><i>"Keep coding, keep improving."</i></p>
+<h3 align="center">
+  <i>"That one day, we'll look back at where we started and be amazed by how far we've come. Just keep moving forward, even if it’s one small step at a time. Guard a resilient heart, and trust the journey."</i>
+</h3>
