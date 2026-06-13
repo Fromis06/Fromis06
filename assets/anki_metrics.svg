@@ -11,8 +11,7 @@
         <text x="25" y="35" class="title">My language learning journey (Anki - 30 days)</text>
         <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
         
-        
-        <g transform="translate(5, 5) scale(1.15)">
+        <g transform="translate(5, -10) scale(1.15)">
             <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-10: 0 reviews</title></rect>
         <rect x="30" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-11: 0 reviews</title></rect>
         <rect x="30" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-05-12: 0 reviews</title></rect>
@@ -50,17 +49,17 @@
         <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-06-13: 44 reviews</title></rect>
         </g>
         
-        <line x1="195" y1="65" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
+        <line x1="195" y1="58" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
         
-        <text x="215" y="85" class="metric-label">Total Reviews:</text>
-        <text x="330" y="85" class="metric-value">2,603 cards</text>
+        <text x="215" y="80" class="metric-label">Total Reviews:</text>
+        <text x="330" y="80" class="metric-value">2,603 cards</text>
         
-        <text x="215" y="115" class="metric-label">Time Invested:</text>
-        <text x="330" y="115" class="metric-value">6.9 hrs</text>
+        <text x="215" y="110" class="metric-label">Time Invested:</text>
+        <text x="330" y="110" class="metric-value">6.9 hrs</text>
         
-        <text x="215" y="145" class="metric-label">Retention Rate:</text>
-        <text x="330" y="145" class="metric-value">80.7%</text>
+        <text x="215" y="140" class="metric-label">Retention Rate:</text>
+        <text x="330" y="140" class="metric-value">80.7%</text>
         
-        <text x="215" y="175" class="metric-label">Average Pace:</text>
-        <text x="330" y="175" class="metric-value">9.6s/card</text>
+        <text x="215" y="170" class="metric-label">Average Pace:</text>
+        <text x="330" y="170" class="metric-value">9.6s/card</text>
     </svg>
