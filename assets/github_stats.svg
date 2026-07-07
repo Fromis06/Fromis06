@@ -12,14 +12,17 @@
         <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
         
         <text x="25" y="85" class="metric-label">&#9733;  Total Stars Earned:</text>
-        <text x="430" y="85" class="metric-value" text-anchor="end">8</text>
+        <text x="250" y="85" class="metric-value">8</text>
         
         <text x="25" y="115" class="metric-label">&#10140;  Total Commits (inc. Private):</text>
-        <text x="430" y="115" class="metric-value" text-anchor="end">182</text>
+        <text x="250" y="115" class="metric-value">183</text>
         
         <text x="25" y="145" class="metric-label">&#8644;  Total Pull Requests:</text>
-        <text x="430" y="145" class="metric-value" text-anchor="end">1</text>
+        <text x="250" y="145" class="metric-value">1</text>
         
         <text x="25" y="175" class="metric-label">&#9888;  Total Issues:</text>
-        <text x="430" y="175" class="metric-value" text-anchor="end">0</text>
+        <text x="250" y="175" class="metric-value">0</text>
+        <g transform="translate(325, 65) scale(0.18)" opacity="0.15">
+            <path fill="#ffffff" d="M256 0C114.6 0 0 114.6 0 256c0 113.1 73.3 209.2 175.1 243 12.8 2.3 17.5-5.6 17.5-12.4 0-6.1-.2-22.3-.3-43.8-71.2 15.5-86.2-34.3-86.2-34.3-11.6-29.6-28.4-37.5-28.4-37.5-23.2-15.9 1.8-15.5 1.8-15.5 25.7 1.8 39.2 26.4 39.2 26.4 22.8 39 59.8 27.7 74.4 21.2 2.3-16.5 8.9-27.7 16.2-34.1-56.9-6.5-116.6-28.4-116.6-126.5 0-27.9 10-50.8 26.3-68.7-2.6-6.5-11.4-32.5 2.5-67.8 0 0 21.5-6.9 70.4 26.2 20.4-5.7 42.3-8.5 64.1-8.6 21.8.1 43.7 2.9 64.1 8.6 48.8-33.1 70.3-26.2 70.3-26.2 14 35.3 5.2 61.3 2.6 67.8 16.4 17.9 26.2 40.8 26.2 68.7 0 98.3-59.8 120-116.9 126.3 9.2 7.9 17.4 23.5 17.4 47.4 0 34.2-.3 61.8-.3 70.2 0 6.9 4.7 14.8 17.6 12.3C438.8 465.1 512 369 512 256 512 114.6 397.4 0 256 0z"/>
+        </g>
     </svg>
