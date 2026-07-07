@@ -11,15 +11,15 @@
         <text x="25" y="35" class="title">Fromis06's GitHub Stats</text>
         <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
         
-        <text x="25" y="85" class="metric-label">Total Stars Earned:</text>
+        <text x="25" y="85" class="metric-label">&#9733;  Total Stars Earned:</text>
         <text x="250" y="85" class="metric-value">8</text>
         
-        <text x="25" y="115" class="metric-label">Total Commits (inc. Private):</text>
-        <text x="250" y="115" class="metric-value">180</text>
+        <text x="25" y="115" class="metric-label">&#10140;  Total Commits (inc. Private):</text>
+        <text x="250" y="115" class="metric-value">181</text>
         
-        <text x="25" y="145" class="metric-label">Total Pull Requests:</text>
+        <text x="25" y="145" class="metric-label">&#8644;  Total Pull Requests:</text>
         <text x="250" y="145" class="metric-value">1</text>
         
-        <text x="25" y="175" class="metric-label">Total Issues:</text>
+        <text x="25" y="175" class="metric-label">&#9888;  Total Issues:</text>
         <text x="250" y="175" class="metric-value">0</text>
     </svg>
