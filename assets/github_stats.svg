@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195">
+        <style>
+            .panel { fill: #1a1b26; stroke: #ffffff; stroke-width: 1; rx: 4.5px; }
+            .title { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+            .metric-label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+            .metric-value { font: bold 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+        </style>
+        
+        <rect width="465" height="193" x="1" y="1" class="panel"/>
+        
+        <text x="25" y="35" class="title">Fromis06's GitHub Stats</text>
+        <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
+        
+        <text x="25" y="85" class="metric-label">Total Stars Earned:</text>
+        <text x="250" y="85" class="metric-value">8</text>
+        
+        <text x="25" y="115" class="metric-label">Total Commits (inc. Private):</text>
+        <text x="250" y="115" class="metric-value">180</text>
+        
+        <text x="25" y="145" class="metric-label">Total Pull Requests:</text>
+        <text x="250" y="145" class="metric-value">1</text>
+        
+        <text x="25" y="175" class="metric-label">Total Issues:</text>
+        <text x="250" y="175" class="metric-value">0</text>
+    </svg>
