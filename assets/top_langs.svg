@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195">
+    <style>
+        .panel { fill: #1a1b26; stroke: #ffffff; stroke-width: 1; rx: 4.5px; }
+        .title { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+        .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+        .lang-pct { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9e9e9e; }
+    </style>
+    <rect width="465" height="193" x="1" y="1" class="panel"/>
+    <text x="25" y="35" class="title">Most Used Languages</text>
+    <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
+    <g><path d="M 125 105 L 125.0 40.0 A 65 65 0 1 1 83.95773678269333 155.4036965906402 Z" fill="#00ADD8"/><path d="M 125 105 L 83.95773678269333 155.4036965906402 A 65 65 0 0 1 121.92282484393579 40.072879371876496 Z" fill="#f1e05a"/><path d="M 125 105 L 121.92282484393579 40.072879371876496 A 65 65 0 0 1 124.99999999999999 40.0 Z" fill="#dea584"/></g><g><circle cx="225" cy="71" r="5" fill="#00ADD8"/><text x="237" y="75" class="lang-name">Go</text><text x="315" y="75" class="lang-pct" text-anchor="end">60.9%</text><circle cx="225" cy="95" r="5" fill="#f1e05a"/><text x="237" y="99" class="lang-name">JavaScript</text><text x="315" y="99" class="lang-pct" text-anchor="end">38.4%</text><circle cx="225" cy="119" r="5" fill="#dea584"/><text x="237" y="123" class="lang-name">Rust</text><text x="315" y="123" class="lang-pct" text-anchor="end">0.8%</text></g></svg>
