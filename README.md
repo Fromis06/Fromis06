@@ -19,10 +19,10 @@ How to reach me: **danhle819@gmail.com**
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1783417088" alt="GitHub Stats" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1783417242" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1783417088" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1783417242" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
