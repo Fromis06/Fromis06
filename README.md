@@ -19,10 +19,10 @@ How to reach me: **danhle819@gmail.com**
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1783614352" alt="GitHub Stats" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1783620862" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1783614352" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1783620862" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ How to reach me: **danhle819@gmail.com**
 
 ### Top Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/top_langs.svg?v=1783614352" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/top_langs.svg?v=1783620862" alt="Top Languages" />
 </p>
 
 ---
