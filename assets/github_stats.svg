@@ -12,10 +12,10 @@
         <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
         
         <text x="25" y="85" class="metric-label">&#9733;  Total Stars Earned:</text>
-        <text x="250" y="85" class="metric-value">8</text>
+        <text x="250" y="85" class="metric-value">10</text>
         
         <text x="25" y="115" class="metric-label">&#10140;  Total Commits:</text>
-        <text x="250" y="115" class="metric-value">213</text>
+        <text x="250" y="115" class="metric-value">214</text>
         
         <text x="25" y="145" class="metric-label">&#8644;  Total Pull Requests:</text>
         <text x="250" y="145" class="metric-value">3</text>
