@@ -46,20 +46,20 @@
         <rect x="132" y="82" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-07-14: 7 reviews</title></rect>
         <rect x="132" y="99" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-07-15: 45 reviews</title></rect>
         <rect x="132" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-07-16: 0 reviews</title></rect>
-        <rect x="132" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-07-17: 144 reviews</title></rect>
+        <rect x="132" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-07-17: 407 reviews</title></rect>
         </g>
         
         <line x1="195" y1="58" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
         
         <text x="215" y="80" class="metric-label">Total Reviews:</text>
-        <text x="330" y="80" class="metric-value">2,257 cards</text>
+        <text x="330" y="80" class="metric-value">2,520 cards</text>
         
         <text x="215" y="110" class="metric-label">Time Invested:</text>
-        <text x="330" y="110" class="metric-value">5.7 hrs</text>
+        <text x="330" y="110" class="metric-value">6.2 hrs</text>
         
         <text x="215" y="140" class="metric-label">Retention Rate:</text>
-        <text x="330" y="140" class="metric-value">94.3%</text>
+        <text x="330" y="140" class="metric-value">93.4%</text>
         
         <text x="215" y="170" class="metric-label">Average Pace:</text>
-        <text x="330" y="170" class="metric-value">9.2s/card</text>
+        <text x="330" y="170" class="metric-value">8.9s/card</text>
     </svg>
