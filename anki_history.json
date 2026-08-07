@@ -1,0 +1,157 @@
+{
+    "2026-07-08": {
+        "review_count": 31,
+        "total_time_ms": 318679,
+        "success_count": 31
+    },
+    "2026-07-09": {
+        "review_count": 71,
+        "total_time_ms": 572377,
+        "success_count": 69
+    },
+    "2026-07-10": {
+        "review_count": 348,
+        "total_time_ms": 3516885,
+        "success_count": 311
+    },
+    "2026-07-11": {
+        "review_count": 206,
+        "total_time_ms": 1525141,
+        "success_count": 180
+    },
+    "2026-07-12": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-07-13": {
+        "review_count": 100,
+        "total_time_ms": 843110,
+        "success_count": 92
+    },
+    "2026-07-14": {
+        "review_count": 7,
+        "total_time_ms": 22953,
+        "success_count": 7
+    },
+    "2026-07-15": {
+        "review_count": 45,
+        "total_time_ms": 49105,
+        "success_count": 45
+    },
+    "2026-07-16": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-07-17": {
+        "review_count": 407,
+        "total_time_ms": 2396277,
+        "success_count": 359
+    },
+    "2026-07-18": {
+        "review_count": 112,
+        "total_time_ms": 1457184,
+        "success_count": 110
+    },
+    "2026-07-19": {
+        "review_count": 114,
+        "total_time_ms": 1489884,
+        "success_count": 104
+    },
+    "2026-07-20": {
+        "review_count": 80,
+        "total_time_ms": 557867,
+        "success_count": 76
+    },
+    "2026-07-21": {
+        "review_count": 45,
+        "total_time_ms": 143975,
+        "success_count": 45
+    },
+    "2026-07-22": {
+        "review_count": 190,
+        "total_time_ms": 1804339,
+        "success_count": 170
+    },
+    "2026-07-23": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-07-24": {
+        "review_count": 164,
+        "total_time_ms": 687449,
+        "success_count": 160
+    },
+    "2026-07-25": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-07-26": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-07-27": {
+        "review_count": 122,
+        "total_time_ms": 1016656,
+        "success_count": 119
+    },
+    "2026-07-28": {
+        "review_count": 106,
+        "total_time_ms": 475000,
+        "success_count": 96
+    },
+    "2026-07-29": {
+        "review_count": 46,
+        "total_time_ms": 100000,
+        "success_count": 46
+    },
+    "2026-07-30": {
+        "review_count": 1,
+        "total_time_ms": 4801,
+        "success_count": 1
+    },
+    "2026-07-31": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-01": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-02": {
+        "review_count": 154,
+        "total_time_ms": 1096000,
+        "success_count": 153
+    },
+    "2026-08-03": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-04": {
+        "review_count": 73,
+        "total_time_ms": 297000,
+        "success_count": 70
+    },
+    "2026-08-05": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-06": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-07": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    }
+}
