@@ -43,7 +43,7 @@
         <rect x="115" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-08-01: 0 reviews</title></rect>
         <rect x="115" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-08-02: 154 reviews</title></rect>
         <rect x="132" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-08-03: 0 reviews</title></rect>
-        <rect x="132" y="82" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-08-04: 37 reviews</title></rect>
+        <rect x="132" y="82" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-08-04: 73 reviews</title></rect>
         <rect x="132" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-08-05: 0 reviews</title></rect>
         <rect x="132" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-08-06: 0 reviews</title></rect>
         <rect x="132" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-08-07: 0 reviews</title></rect>
@@ -52,7 +52,7 @@
         <line x1="195" y1="58" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
         
         <text x="215" y="80" class="metric-label">Total Reviews:</text>
-        <text x="330" y="80" class="metric-value">2,386 cards</text>
+        <text x="330" y="80" class="metric-value">2,422 cards</text>
         
         <text x="215" y="110" class="metric-label">Time Invested:</text>
         <text x="330" y="110" class="metric-value">5.1 hrs</text>
