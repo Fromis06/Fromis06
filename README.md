@@ -7,7 +7,7 @@ I am a 3rd-year Software Engineering student @ [UIT](https://maps.app.goo.gl/ktm
 
 * **Currently focusing on:** Go, Python, Cloud Services, and Streaming Architectures.
 * **Knowledgeable in:** System design, automation systems, full-stack development, and database design.
-* **Languages:** Native Vietnamese, professional English, and currently learning Japanese.
+* **Languages:** Native Vietnamese, English, and currently learning Japanese.
 * **Lifestyle:** As a gym enthusiast and programmer, I believe both the gym and coding follow the same principle: real strength comes from showing up every day, pushing past your limits, and staying consistent.
 * **Goal:** To design scalable and efficient data systems, deepen my expertise in cloud infrastructure, and continuously improve both professionally and personally.
 
@@ -19,10 +19,10 @@ How to reach me: **danhle819@gmail.com**
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1786096823" alt="GitHub Stats" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1786958327" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1786096823" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1786958327" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ How to reach me: **danhle819@gmail.com**
     <td align="center"><strong>Frameworks & APIs</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
     </td>
   </tr>
   <tr>
@@ -71,24 +71,25 @@ How to reach me: **danhle819@gmail.com**
 
 ### Featured Projects
 
-* **CDC Architect System**
-  * *Description:* A standalone, single-language Change Data Capture (CDC) engine built entirely in Golang. Designed as a high-efficiency alternative to heavy, infrastructure-dependent frameworks like Kafka Connect or Debezium, Prismio implements an intelligent self-optimizing data pipeline to capture and replicate real-time database changes with a minimal hardware footprint.
-  * 🔗 [View Code](https://github.com/Fromis06/Prismio)
+* **Prismio**
+  * *Description:* A lightweight Go-based Change Data Capture (CDC) engine for real-time database replication, featuring adaptive batching and memory-safe buffering.
+  * *Tech stack:* Go, PostgreSQL, pglogrepl, tview.
+  * [View Code](https://github.com/Fromis06/Prismio)
+
+* **SRT Getter**
+  * *Description:* A Go and Python desktop application that extracts subtitles from video and exports them as SRT files using OpenCV and EasyOCR.
+  * *Tech stack:* Go, Python, React, OpenCV, EasyOCR, Wails.
+  * [View Code](https://github.com/Fromis06)
 
 * **Anki Visual Builder**
   * *Description:* A visual desktop application designed for building Anki card layouts using a modern drag-and-drop interface. The application features recursive space splitting via a CSS Grid system, text attribute customization, independent visibility control for Front/Back card templates, and real-time HTML/CSS code compilation compatible with Anki Desktop.
-  * 🔗 [View Code](https://github.com/Fromis06/Anki-Builder)
-
-* **Chrome Quick Furigana Search Extension**
-  * *Description:* Tiện ích mở rộng trên trình duyệt Chrome giúp đơn giản hóa việc học và tra cứu Kanji bằng cách hiển thị nhanh Furigana trực quan cho người dùng.
-  * *Tech stack:* JavaScript, TypeScript, Chrome Extension Manifest V3.
-  * 🔗 [View Code](https://github.com/Fromis06)
+  * [View Code](https://github.com/Fromis06/Anki-Builder)
 
 ---
 
 ### Top Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/top_langs.svg?v=1786096823" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/top_langs.svg?v=1786958327" alt="Top Languages" />
 </p>
 
 ---
