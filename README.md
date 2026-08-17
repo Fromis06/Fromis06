@@ -19,10 +19,10 @@ How to reach me: **danhle819@gmail.com**
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1786958718" alt="GitHub Stats" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/github_stats.svg?v=1786959290" alt="GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1786958718" alt="Anki Metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/anki_metrics.svg?v=1786959290" alt="Anki Metrics" width="100%" />
     </td>
   </tr>
 </table>
@@ -71,25 +71,22 @@ How to reach me: **danhle819@gmail.com**
 
 ### Featured Projects
 
-* **Prismio**
+* **[Prismio](https://github.com/Fromis06/Prismio)**
   * *Description:* A lightweight Go-based Change Data Capture (CDC) engine for real-time database replication, featuring adaptive batching and memory-safe buffering.
   * *Tech stack:* Go, PostgreSQL, pglogrepl, tview.
-  * [View Code](https://github.com/Fromis06/Prismio)
 
-* **SRT Getter**
+* **[SRT Getter](https://github.com/Fromis06/SRT-getter)**
   * *Description:* A Go and Python desktop application that extracts subtitles from video and exports them as SRT files using OpenCV and EasyOCR.
   * *Tech stack:* Go, Python, React, OpenCV, EasyOCR, Wails.
-  * [View Code](https://github.com/Fromis06)
 
-* **Anki Visual Builder**
+* **[Anki Visual Builder](https://github.com/Fromis06/Anki-Builder)**
   * *Description:* A visual desktop application designed for building Anki card layouts using a modern drag-and-drop interface. The application features recursive space splitting via a CSS Grid system, text attribute customization, independent visibility control for Front/Back card templates, and real-time HTML/CSS code compilation compatible with Anki Desktop.
-  * [View Code](https://github.com/Fromis06/Anki-Builder)
 
 ---
 
 ### Top Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/top_langs.svg?v=1786958718" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Fromis06/Fromis06/main/assets/top_langs.svg?v=1786959290" alt="Top Languages" />
 </p>
 
 ---
