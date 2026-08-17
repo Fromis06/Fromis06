@@ -1,54 +1,4 @@
 {
-    "2026-07-08": {
-        "review_count": 31,
-        "total_time_ms": 318679,
-        "success_count": 31
-    },
-    "2026-07-09": {
-        "review_count": 71,
-        "total_time_ms": 572377,
-        "success_count": 69
-    },
-    "2026-07-10": {
-        "review_count": 348,
-        "total_time_ms": 3516885,
-        "success_count": 311
-    },
-    "2026-07-11": {
-        "review_count": 206,
-        "total_time_ms": 1525141,
-        "success_count": 180
-    },
-    "2026-07-12": {
-        "review_count": 0,
-        "total_time_ms": 0,
-        "success_count": 0
-    },
-    "2026-07-13": {
-        "review_count": 100,
-        "total_time_ms": 843110,
-        "success_count": 92
-    },
-    "2026-07-14": {
-        "review_count": 7,
-        "total_time_ms": 22953,
-        "success_count": 7
-    },
-    "2026-07-15": {
-        "review_count": 45,
-        "total_time_ms": 49105,
-        "success_count": 45
-    },
-    "2026-07-16": {
-        "review_count": 0,
-        "total_time_ms": 0,
-        "success_count": 0
-    },
-    "2026-07-17": {
-        "review_count": 407,
-        "total_time_ms": 2396277,
-        "success_count": 359
-    },
     "2026-07-18": {
         "review_count": 112,
         "total_time_ms": 1457184,
@@ -150,6 +100,56 @@
         "success_count": 0
     },
     "2026-08-07": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-08": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-09": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-10": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-11": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-12": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-13": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-14": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-15": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-16": {
+        "review_count": 0,
+        "total_time_ms": 0,
+        "success_count": 0
+    },
+    "2026-08-17": {
         "review_count": 0,
         "total_time_ms": 0,
         "success_count": 0
