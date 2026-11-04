@@ -46,13 +46,13 @@
         <rect x="132" y="82" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-11-01: 64 reviews</title></rect>
         <rect x="132" y="99" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-02: 118 reviews</title></rect>
         <rect x="132" y="116" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-03: 132 reviews</title></rect>
-        <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-11-04: 27 reviews</title></rect>
+        <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-11-04: 28 reviews</title></rect>
         </g>
         
         <line x1="195" y1="58" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
         
         <text x="215" y="80" class="metric-label">Total Reviews:</text>
-        <text x="330" y="80" class="metric-value">2,100 cards</text>
+        <text x="330" y="80" class="metric-value">2,101 cards</text>
         
         <text x="215" y="110" class="metric-label">Time Invested:</text>
         <text x="330" y="110" class="metric-value">8.2 hrs</text>
