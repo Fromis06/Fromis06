@@ -32,33 +32,33 @@
         <rect x="81" y="99" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-18: 232 reviews</title></rect>
         <rect x="81" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-19: 0 reviews</title></rect>
         <rect x="81" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-20: 164 reviews</title></rect>
-        <rect x="98" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-21: 0 reviews</title></rect>
+        <rect x="98" y="65" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-10-21: 25 reviews</title></rect>
         <rect x="98" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-22: 0 reviews</title></rect>
         <rect x="98" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-23: 0 reviews</title></rect>
         <rect x="98" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-24: 0 reviews</title></rect>
         <rect x="98" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-25: 0 reviews</title></rect>
-        <rect x="115" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-26: 0 reviews</title></rect>
-        <rect x="115" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-27: 0 reviews</title></rect>
+        <rect x="115" y="65" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-10-26: 4 reviews</title></rect>
+        <rect x="115" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-27: 103 reviews</title></rect>
         <rect x="115" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-28: 0 reviews</title></rect>
         <rect x="115" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-29: 0 reviews</title></rect>
         <rect x="115" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-30: 0 reviews</title></rect>
         <rect x="132" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-31: 0 reviews</title></rect>
-        <rect x="132" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-01: 0 reviews</title></rect>
-        <rect x="132" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-02: 0 reviews</title></rect>
-        <rect x="132" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-03: 0 reviews</title></rect>
-        <rect x="132" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-04: 0 reviews</title></rect>
+        <rect x="132" y="82" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-11-01: 64 reviews</title></rect>
+        <rect x="132" y="99" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-02: 118 reviews</title></rect>
+        <rect x="132" y="116" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-03: 132 reviews</title></rect>
+        <rect x="132" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-11-04: 27 reviews</title></rect>
         </g>
         
         <line x1="195" y1="58" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
         
         <text x="215" y="80" class="metric-label">Total Reviews:</text>
-        <text x="330" y="80" class="metric-value">1,627 cards</text>
+        <text x="330" y="80" class="metric-value">2,100 cards</text>
         
         <text x="215" y="110" class="metric-label">Time Invested:</text>
-        <text x="330" y="110" class="metric-value">6.4 hrs</text>
+        <text x="330" y="110" class="metric-value">8.2 hrs</text>
         
         <text x="215" y="140" class="metric-label">Retention Rate:</text>
-        <text x="330" y="140" class="metric-value">78.9%</text>
+        <text x="330" y="140" class="metric-value">79.0%</text>
         
         <text x="215" y="170" class="metric-label">Average Pace:</text>
         <text x="330" y="170" class="metric-value">14.1s/card</text>
