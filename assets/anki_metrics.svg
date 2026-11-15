@@ -12,54 +12,54 @@
         <line x1="25" y1="50" x2="442" y2="50" stroke="#383e5a" stroke-width="1"/>
         
         <g transform="translate(5, -10) scale(1.15)">
-            <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-09: 0 reviews</title></rect>
-        <rect x="30" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-10: 0 reviews</title></rect>
-        <rect x="30" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-11: 0 reviews</title></rect>
-        <rect x="30" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-12: 0 reviews</title></rect>
-        <rect x="30" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-10-13: 22 reviews</title></rect>
-        <rect x="47" y="65" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-10-14: 4 reviews</title></rect>
-        <rect x="47" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-15: 0 reviews</title></rect>
-        <rect x="47" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-16: 0 reviews</title></rect>
-        <rect x="47" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-17: 0 reviews</title></rect>
-        <rect x="47" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-18: 232 reviews</title></rect>
-        <rect x="64" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-19: 0 reviews</title></rect>
-        <rect x="64" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-20: 164 reviews</title></rect>
-        <rect x="64" y="99" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-10-21: 25 reviews</title></rect>
-        <rect x="64" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-22: 0 reviews</title></rect>
-        <rect x="64" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-23: 0 reviews</title></rect>
-        <rect x="81" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-24: 0 reviews</title></rect>
-        <rect x="81" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-25: 0 reviews</title></rect>
-        <rect x="81" y="99" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-10-26: 4 reviews</title></rect>
-        <rect x="81" y="116" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-27: 103 reviews</title></rect>
-        <rect x="81" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-28: 0 reviews</title></rect>
-        <rect x="98" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-29: 0 reviews</title></rect>
-        <rect x="98" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-30: 0 reviews</title></rect>
-        <rect x="98" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-31: 0 reviews</title></rect>
-        <rect x="98" y="116" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-11-01: 64 reviews</title></rect>
-        <rect x="98" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-02: 118 reviews</title></rect>
-        <rect x="115" y="65" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-03: 132 reviews</title></rect>
-        <rect x="115" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-04: 188 reviews</title></rect>
-        <rect x="115" y="99" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-11-05: 77 reviews</title></rect>
-        <rect x="115" y="116" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-06: 312 reviews</title></rect>
-        <rect x="115" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-07: 0 reviews</title></rect>
-        <rect x="132" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-08: 0 reviews</title></rect>
-        <rect x="132" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-09: 0 reviews</title></rect>
-        <rect x="132" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-10: 0 reviews</title></rect>
-        <rect x="132" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-11: 0 reviews</title></rect>
-        <rect x="132" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-12: 120 reviews</title></rect>
+            <rect x="30" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-12: 0 reviews</title></rect>
+        <rect x="30" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-13: 0 reviews</title></rect>
+        <rect x="30" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-14: 0 reviews</title></rect>
+        <rect x="30" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-15: 0 reviews</title></rect>
+        <rect x="30" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-16: 0 reviews</title></rect>
+        <rect x="47" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-17: 0 reviews</title></rect>
+        <rect x="47" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-18: 232 reviews</title></rect>
+        <rect x="47" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-19: 0 reviews</title></rect>
+        <rect x="47" y="116" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-20: 164 reviews</title></rect>
+        <rect x="47" y="133" width="13" height="13" fill="#40c463" rx="2" ry="2"><title>2026-10-21: 25 reviews</title></rect>
+        <rect x="64" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-22: 0 reviews</title></rect>
+        <rect x="64" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-23: 0 reviews</title></rect>
+        <rect x="64" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-24: 0 reviews</title></rect>
+        <rect x="64" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-25: 0 reviews</title></rect>
+        <rect x="64" y="133" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-10-26: 4 reviews</title></rect>
+        <rect x="81" y="65" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-10-27: 103 reviews</title></rect>
+        <rect x="81" y="82" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-28: 0 reviews</title></rect>
+        <rect x="81" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-29: 0 reviews</title></rect>
+        <rect x="81" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-30: 0 reviews</title></rect>
+        <rect x="81" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-10-31: 0 reviews</title></rect>
+        <rect x="98" y="65" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-11-01: 64 reviews</title></rect>
+        <rect x="98" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-02: 118 reviews</title></rect>
+        <rect x="98" y="99" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-03: 132 reviews</title></rect>
+        <rect x="98" y="116" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-04: 188 reviews</title></rect>
+        <rect x="98" y="133" width="13" height="13" fill="#30a14e" rx="2" ry="2"><title>2026-11-05: 77 reviews</title></rect>
+        <rect x="115" y="65" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-06: 312 reviews</title></rect>
+        <rect x="115" y="82" width="13" height="13" fill="#9be9a8" rx="2" ry="2"><title>2026-11-07: 1 reviews</title></rect>
+        <rect x="115" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-08: 0 reviews</title></rect>
+        <rect x="115" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-09: 0 reviews</title></rect>
+        <rect x="115" y="133" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-10: 0 reviews</title></rect>
+        <rect x="132" y="65" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-11: 0 reviews</title></rect>
+        <rect x="132" y="82" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-12: 190 reviews</title></rect>
+        <rect x="132" y="99" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-13: 0 reviews</title></rect>
+        <rect x="132" y="116" width="13" height="13" fill="#161b22" rx="2" ry="2"><title>2026-11-14: 0 reviews</title></rect>
+        <rect x="132" y="133" width="13" height="13" fill="#216e39" rx="2" ry="2"><title>2026-11-15: 116 reviews</title></rect>
         </g>
         
         <line x1="195" y1="58" x2="195" y2="175" stroke="#383e5a" stroke-width="1"/>
         
         <text x="215" y="80" class="metric-label">Total Reviews:</text>
-        <text x="330" y="80" class="metric-value">1,565 cards</text>
+        <text x="330" y="80" class="metric-value">1,726 cards</text>
         
         <text x="215" y="110" class="metric-label">Time Invested:</text>
-        <text x="330" y="110" class="metric-value">6.6 hrs</text>
+        <text x="330" y="110" class="metric-value">7.3 hrs</text>
         
         <text x="215" y="140" class="metric-label">Retention Rate:</text>
-        <text x="330" y="140" class="metric-value">79.2%</text>
+        <text x="330" y="140" class="metric-value">78.1%</text>
         
         <text x="215" y="170" class="metric-label">Average Pace:</text>
-        <text x="330" y="170" class="metric-value">15.3s/card</text>
+        <text x="330" y="170" class="metric-value">15.1s/card</text>
     </svg>
